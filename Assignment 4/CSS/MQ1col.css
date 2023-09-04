@@ -1,0 +1,12 @@
+    .grids {
+        flex-wrap: wrap;
+        justify-content: space-evenly
+
+    }
+    .grids .element{
+        width: 110%;
+    }
+    .cols .col img {
+        width:100%
+    
+    }
